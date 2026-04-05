@@ -1,4 +1,4 @@
-Personal Expense Tracker Backend
+🎯 Personal Expense Tracker Backend
 
 This repository contains the backend API for a Personal Expense Tracker application. The API provides basic CRUD operations to create, retrieve, update, and delete expenses.
 
@@ -6,14 +6,21 @@ It is built as a practice project to understand backend development concepts suc
 
 Currently, the application does not include authentication, so all expenses are stored in a single collection. In a production-ready version, user authentication and authorization would be implemented so that each user can manage their own expenses securely.
 
-Tech Stack
-Node.js
-Express.js
-MongoDB
-Mongoose
-Features
+🛠️ Tech Stack
+1. Node.js
+2. Express.js
+3. MongoDB
+4. Mongoose
+   
+🚀 Features
 Create new expenses
 Retrieve all expenses
 Update existing expenses
 Delete expenses
 Basic RESTful API structure
+
+Future Improvements
+1.User authentication (login & signup)
+2.Separate expenses per user
+3.Expense categories
+4.Pagination and filtering
